@@ -11,7 +11,7 @@ style="font-family: 'Garamond', serif;">
 		<input type="hidden" name="_captcha" value="false" />
 
 		<!-- Titolo -->
-		<h2 class="text-lg font-semibold leading-snug">
+		<h2 class="text-lg font-serif font-bold text-black leading-snug">
 			Please kindly RSVP by XXX<br />
 			using the form below
 		</h2>

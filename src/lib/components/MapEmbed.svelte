@@ -23,7 +23,7 @@
 
 <section id="map-container" class="flex w-full flex-col items-center px-6 py-12"
 style="font-family: 'Garamond', serif;">
-	<h2 class="mb-4 text-lg font-semibold">Location Map</h2>
+	<h2 class="mb-4 text-lg font-serif font-bold text-black">Location Map</h2>
 	{#if mapLoaded}
 		<div in:fade={{ duration: 1000 }} class="w-full max-w-[360px]">
 			<div class="rounded-xl bg-white p-2">
