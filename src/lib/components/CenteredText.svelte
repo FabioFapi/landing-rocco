@@ -1,18 +1,33 @@
 <section class="flex w-full justify-center px-6 py-8">
-	<div class="max-w-[360px] space-y-4 text-center text-black">
+	<div class="max-w-[360px] text-center text-black space-y-6">
+
+		<p>Dear Friends and Family,</p>
+
 		<p class="text-base leading-relaxed">
-			Dear Friends,<br />
 			I am delighted to invite you to join me in<br />
-			celebrating a special milestone — my birthday.<br />
+			celebrating a special milestone — my birthday.
+		</p>
+
+		<p class="text-base leading-relaxed">
 			It would mean a lot to have you there as I mark<br />
-			another year of life, growth, and gratitude.<br />
-			Your presence would truly make the day<br />
-			memorable, and I would be honored to celebrate<br />
-			this occasion with those closest to me.<br />
+			another year of life, growth, and gratitude.
+		</p>
+
+		<p class="text-base leading-relaxed">
+			Your presence would truly make the day memorable,<br />
+			and I would be honored to celebrate this occasion<br />
+			with those closest to me.
+		</p>
+
+		<p class="text-base leading-relaxed">
 			I truly look forward to celebrating together and<br />
 			sharing this joyful day with you.
 		</p>
 
-		<p>Warm regards,<br />Rocco</p>
+		<p class="mt-6 ">
+			Warm regards,<br />
+			Rocco
+		</p>
+
 	</div>
 </section>

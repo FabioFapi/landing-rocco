@@ -2,6 +2,7 @@
 	import Hero from '$lib/components/Hero.svelte';
 	import Countdown from '$lib/components/Countdown.svelte';
   import CenteredText from '$lib/components/CenteredText.svelte';
+  import EventInfo from '$lib/components/EventInfo.svelte';
 
 	let heroImage = '/images/hero.jpg';
 	let heroAlt = 'Banner evento';
@@ -18,6 +19,7 @@
 		</div>
 	</div>
   <CenteredText />
+<EventInfo />
 </main>
 
 <style>
