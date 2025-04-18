@@ -2,7 +2,7 @@
 
 <section class="flex w-full justify-center px-6 py-12">
 	<form
-		action="https://formsubmit.co/recchiappmobile@gmail.com" 
+		action="https://formsubmit.co/segretary@womblab.com" 
 		method="POST"
 		class="w-full max-w-[360px] space-y-6 text-center"
 	>
