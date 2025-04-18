@@ -1,7 +1,7 @@
 <section class="flex w-full justify-center px-6 py-8">
 	<div class="max-w-[360px] text-center text-black space-y-6">
 
-		<p>Dear Friends and Family,</p>
+		<p>Dear Friends,</p>
 
 		<p class="text-base leading-relaxed">
 			I am delighted to invite you to join me in<br />
@@ -14,7 +14,7 @@
 		</p>
 
 		<p class="text-base leading-relaxed">
-			Your presence would truly make the day memorable,and<br />
+			Your presence would truly make the day memorable,and
 			I would be honored to celebrate this occasion<br />
 			with those closest to me.
 		</p>

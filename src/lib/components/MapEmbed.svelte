@@ -21,14 +21,11 @@
 	});
 </script>
 
-<section id="map-container" class="flex w-full justify-center px-6 py-12">
+<section id="map-container" class="flex w-full flex-col items-center px-6 py-12">
+	<h2 class="mb-4 text-lg font-semibold">Location Map</h2>
 	{#if mapLoaded}
-		<div in:fade={{ duration: 1000 }} class="map-wrapper relative w-full max-w-[360px]">
-			<div
-				class="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-blue-200 to-blue-300 opacity-50 blur"
-			></div>
-
-			<div class="relative rounded-xl bg-white p-2">
+		<div in:fade={{ duration: 1000 }} class="w-full max-w-[360px]">
+			<div class="rounded-xl bg-white p-2">
 				<iframe
 					src="https://maps.google.com/maps?q=Viale+Carlo+Ceppi+5+10126+Torino+TO&z=15&output=embed"
 					width="100%"
