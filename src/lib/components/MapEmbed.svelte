@@ -28,7 +28,7 @@
 				class="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-blue-200 to-blue-300 opacity-50 blur"
 			></div>
 
-			<div class="relative rounded-xl bg-white p-2 shadow-md">
+			<div class="relative rounded-xl bg-white p-2">
 				<iframe
 					src="https://maps.google.com/maps?q=Viale+Carlo+Ceppi+5+10126+Torino+TO&z=15&output=embed"
 					width="100%"
