@@ -15,5 +15,6 @@ style="font-family: 'Garamond', serif;">
 		<p class="text-base leading-relaxed">
 			🎩 <span class="font-semibold">Dress code:</span> Formal elegant
 		</p>
+        
 	</div>
 </section>
