@@ -1,6 +1,7 @@
 <!-- src/lib/components/RegistrationForm.svelte -->
 
-<section class="flex w-full justify-center px-6 py-12">
+<section class="flex w-full justify-center px-6 py-12"
+style="font-family: 'Garamond', serif;">
 	<form
 		action="https://formsubmit.co/secretary@womblab.com" 
 		method="POST"
@@ -12,7 +13,7 @@
 		<!-- Titolo -->
 		<h2 class="text-lg font-semibold leading-snug">
 			Please kindly RSVP by XXX<br />
-			using the form below.
+			using the form below
 		</h2>
 
 		<!-- First Name -->

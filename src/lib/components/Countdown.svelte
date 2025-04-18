@@ -55,7 +55,7 @@
 	});
 </script>
 
-<section class="flex w-full justify-center py-8">
+<section class="flex w-full justify-center py-8" style="font-family: 'Garamond', serif;">
 	{#if visible}
 		<div
 			class="countdown-container flex w-full max-w-[360px] items-center justify-between rounded-full bg-cover bg-center px-6 py-3"

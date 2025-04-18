@@ -3,6 +3,7 @@
 	import { fade, fly, slide } from 'svelte/transition';
 	import { spring } from 'svelte/motion';
 
+  import '../app.css';
 	import Hero from '$lib/components/Hero.svelte';
 	import Countdown from '$lib/components/Countdown.svelte';
 	import CenteredText from '$lib/components/CenteredText.svelte';
