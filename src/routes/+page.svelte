@@ -4,6 +4,7 @@
 	import CenteredText from '$lib/components/CenteredText.svelte';
 	import EventInfo from '$lib/components/EventInfo.svelte';
 	import RegistrationForm from '$lib/components/RegistrationForm.svelte';
+	import MapEmbed from '$lib/components/MapEmbed.svelte';
 
 	let heroImage = '/images/hero.jpg';
 	let heroAlt = 'Banner evento';
@@ -22,6 +23,7 @@
 	<CenteredText />
 	<EventInfo />
 	<RegistrationForm />
+	<MapEmbed />
 </main>
 
 <style>
