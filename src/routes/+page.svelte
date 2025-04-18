@@ -1,8 +1,9 @@
 <script>
 	import Hero from '$lib/components/Hero.svelte';
 	import Countdown from '$lib/components/Countdown.svelte';
-  import CenteredText from '$lib/components/CenteredText.svelte';
-  import EventInfo from '$lib/components/EventInfo.svelte';
+	import CenteredText from '$lib/components/CenteredText.svelte';
+	import EventInfo from '$lib/components/EventInfo.svelte';
+	import RegistrationForm from '$lib/components/RegistrationForm.svelte';
 
 	let heroImage = '/images/hero.jpg';
 	let heroAlt = 'Banner evento';
@@ -18,8 +19,9 @@
 			<Countdown target={targetDate} bgSrc={bgImage} />
 		</div>
 	</div>
-  <CenteredText />
-<EventInfo />
+	<CenteredText />
+	<EventInfo />
+	<RegistrationForm />
 </main>
 
 <style>

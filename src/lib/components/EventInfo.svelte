@@ -3,16 +3,16 @@
 		<h2 class="text-lg font-semibold">Info</h2>
 
 		<p class="text-base leading-relaxed">
-			📅 Date: May 17<sup>th</sup>, 2025
+			📅 <span class="font-semibold">Date:</span> May 17<sup>th</sup>, 2025
 		</p>
 		<p class="text-base leading-relaxed">
-			🕓 Time: 8.00 pm
+			🕓 <span class="font-semibold">Time:</span> 8.00 pm
 		</p>
 		<p class="text-base leading-relaxed">
-			📍 Location: Villa Glicini Torino
+			📍 <span class="font-semibold">Location:</span> Villa Glicini Torino
 		</p>
 		<p class="text-base leading-relaxed">
-			🎩 Dress code: Formal elegant
+			🎩 <span class="font-semibold">Dress code:</span> Formal elegant
 		</p>
 	</div>
 </section>

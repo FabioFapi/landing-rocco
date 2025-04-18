@@ -14,8 +14,8 @@
 		</p>
 
 		<p class="text-base leading-relaxed">
-			Your presence would truly make the day memorable,<br />
-			and I would be honored to celebrate this occasion<br />
+			Your presence would truly make the day memorable,and<br />
+			I would be honored to celebrate this occasion<br />
 			with those closest to me.
 		</p>
 
