@@ -1,7 +1,7 @@
 <section class="flex w-full justify-center px-6 py-8">
 	<div class="max-w-[360px] space-y-4 text-center text-black">
 		<p class="text-base leading-relaxed">
-			Dear Friends and Family,<br />
+			Dear Friends,<br />
 			I am delighted to invite you to join me in<br />
 			celebrating a special milestone — my birthday.<br />
 			It would mean a lot to have you there as I mark<br />
@@ -13,6 +13,6 @@
 			sharing this joyful day with you.
 		</p>
 
-		<p class="mt-4 text-sm italic">Warm regards,<br />Rocco</p>
+		<p>Warm regards,<br />Rocco</p>
 	</div>
 </section>
