@@ -12,7 +12,7 @@ style="font-family: 'Garamond', serif;">
 
 		<!-- Titolo -->
 		<h2 class="text-lg font-serif font-bold text-black leading-snug">
-			Please kindly RSVP by Friday 9<sup>th</sup> May<br />
+			Please kindly RSVP by Friday 9<sup>th</sup> May
 			using the form below
 		</h2>
 
