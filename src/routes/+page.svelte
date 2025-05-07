@@ -10,6 +10,7 @@
 	import EventInfo from '$lib/components/EventInfo.svelte';
 	import RegistrationForm from '$lib/components/RegistrationForm.svelte';
 	import MapEmbed from '$lib/components/MapEmbed.svelte';
+	import SecondCenteredText from '$lib/components/SecondCenteredText.svelte';
 
 	let heroImage = '/images/hero.jpg';
 	let heroAlt = 'Banner evento';
@@ -94,17 +95,7 @@
 		{/if}
 	</section>
 
-	<section>
-		{#if visible}
-			<div
-				in:fly={{ y: 20, duration: 800, delay: 200 }}
-				class="animate-fadeIn opacity-0"
-				style="animation-delay: 1200ms; animation-fill-mode: forwards;"
-			>
-				<EventInfo />
-			</div>
-		{/if}
-	</section>
+	
 
 	<section>
 		{#if visible}
@@ -114,6 +105,25 @@
 				style="animation-delay: 1600ms; animation-fill-mode: forwards;"
 			>
 				<RegistrationForm />
+			</div>
+		{/if}
+	</section>
+	<section>
+		{#if componentVisibility.centeredText}
+			<div in:fly={{ y: 20, duration: 800 }}>
+				<SecondCenteredText />
+			</div>
+		{/if}
+	</section>
+
+	<section>
+		{#if visible}
+			<div
+				in:fly={{ y: 20, duration: 800, delay: 200 }}
+				class="animate-fadeIn opacity-0"
+				style="animation-delay: 1200ms; animation-fill-mode: forwards;"
+			>
+				<EventInfo />
 			</div>
 		{/if}
 	</section>
